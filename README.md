@@ -89,4 +89,4 @@ class NeuralNetworkModel(nn.Module):
 - The project demonstrates building models in PyTorch.
 - Linear regression and a neural network are implemented with minimal preprocessing.
 - Model performance was not the focus; the goal was to illustrate the implementation workflow.
-- This project provides a clear example of PyTorch model training, forward propagation, and optimization. 
+- This project provides a clear example of PyTorch model training, forward propagation, and optimization.  
