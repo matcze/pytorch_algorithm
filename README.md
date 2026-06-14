@@ -85,7 +85,7 @@ class NeuralNetworkModel(nn.Module):
         return self.linear_layer_stack(x)
 ```
 # Conclusion
-
+ 
 - The project demonstrates building models in PyTorch.
 - Linear regression and a neural network are implemented with minimal preprocessing.
 - Model performance was not the focus; the goal was to illustrate the implementation workflow.
