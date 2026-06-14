@@ -60,7 +60,7 @@ The neural network has the following architecture:
 - Input layer: 10 nodes
 - Hidden layer: 256 nodes with ReLU activation
 - Output layer: 1 node (predicted label)
-
+ 
 Training setup:
 - Loss function: MSELoss
 - Optimizer: Adam
